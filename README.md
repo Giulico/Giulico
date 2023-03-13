@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=giulico&label=Profile%20views&color=0e75b6&style=flat" alt="giulico" />
 </h1>
 
-<h1 align="center">Hi 👋, I'm Giulio Collesei</h1>
+<h1 align="center">Hi 👋, I'm Giulio</h1>
 <h3 align="center">I’m a creative web developer, focused on writing high quality and semantic code especially but not exclusively on the front end. I have strong experience in developing isomorphic SPA using ReactJS.</h3>
 
 
