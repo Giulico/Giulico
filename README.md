@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/giuliocollesei/" target="_blank">
     <img src="https://img.shields.io/twitter/url?style=social&logo=linkedin&label=Linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiuliocollesei%2F" alt="Linkedin">
   </a>
-  <a href="https://twitter.com/giuliocollesei" target="_blank">
+  <a href="https://twitter.com/this_is_giulio" target="_blank">
     <img src="https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2Fgiuliocollesei" alt="Twitter">
   </a>
   <img src="https://komarev.com/ghpvc/?username=giulico&label=Profile%20views&color=0e75b6&style=flat" alt="giulico" />
@@ -14,7 +14,7 @@
 
 - 📫 Personal website [TheyCallMeGiulio](https://www.theycallmegiulio.com/)
 
-- 🔭 I’m currently a Creative Technologist at [Sketchin](https://www.sketchin.com/)
+- 🔭 Former Senior Front End Developer at [Sketchin](https://www.sketchin.com/)
 
 - ⚡ Former Senior Front End Developer at [AQuest](https://www.aquest.it/)
 
